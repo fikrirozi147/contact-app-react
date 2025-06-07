@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": "d1f4bcb9-c794-4af3-90aa-6fca78ff7650",
+      "name": "Fumeko",
+      "email": "fumeko@example.com"
+    },
+    {
+      "id": "905baad6-2d13-4b50-9d3d-9fddd29f2163",
+      "name": "Daniel",
+      "email": "daniel@example.com"
+    },
+    {
+      "id": "86c7853e-855c-431c-b71a-a7ceddb1d882",
+      "name": "Maria",
+      "email": "maria@example.com"
+    },
+    {
+      "id": "f32631fd-49e0-42f9-8086-d7578bdbe843",
+      "name": "Fikri",
+      "email": "fikri@example.com"
+    },
+    {
+      "id": "b9571ba0-6037-4013-bf5d-f5cfb8ff29e6",
+      "name": "Pali",
+      "email": "pali@example.com"
+    },
+    {
+      "id": "508bd606-7ec8-43cc-a249-374af6e143b7",
+      "name": "Chokun",
+      "email": "chokunz@example.com"
+    },
+    {
+      "id": "2ac80eea-c017-467e-8d6d-14babcb67477",
+      "name": "Neko",
+      "email": "neko@example.com"
+    }
+  ]
+}
